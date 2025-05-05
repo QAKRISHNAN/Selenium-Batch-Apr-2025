@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="AnnonationsSuite">
+  <test thread-count="5" name="Swag_AllTestCases_Test">
+    <classes>
+      <class name="TestNG_Annoatations.Swag_VUVP"/>
+      <class name="TestNG_Annoatations.Swag_IUIP"/>
+    </classes>
+  </test> <!-- Swag_AllTestCases_Test -->
+</suite> <!-- AnnonationsSuite -->
